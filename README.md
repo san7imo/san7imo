@@ -9,7 +9,7 @@
 - 🌍 Medellín, Colombia  
 - 🎓 Full Stack Developer en **Riwi Academy** (2024–2025)  
 - 🎓 **Google Cybersecurity** – Coursera (2025)  
-- 🎓 Ingeniería Industrial, Universidad Nacional de Colombia (en curso)  
+- 🎓 Desarrollo de Software, ITM(en curso)  
 - 💼 Experiencia real en proyectos como **CompraRaiz.com**, **CamionYa.co** y **Todo Rifas**  
 - 🔒 Interesado en **ciberseguridad, DevOps y desarrollo seguro**  
 
