@@ -75,15 +75,15 @@
 
 ## 📊 Estadísticas de GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=san7ilo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san7ilo&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=san7imo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san7imo&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Conecta conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/san7imo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=fff)](https://github.com/san7ilo)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:santiago.londono07@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=fff)](https://github.com/san7imo)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:san7imo@gmail.com)  
 
 ---
 
